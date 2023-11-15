@@ -32,7 +32,7 @@ def cartoonize_image(image):
 
 
 
-image = cv2.imread("R.jpeg")
+image = cv2.imread("your image")
 cartoonized = cartoonize_image(image)
 
 
